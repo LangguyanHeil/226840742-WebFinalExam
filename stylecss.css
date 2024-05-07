@@ -1,0 +1,26 @@
+head {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightgrey;
+    margin: auto;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+}
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: orchid;
+}
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+}
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+}
+ul1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: green;
+}
